@@ -1,0 +1,17 @@
+# Arduino build output
+build/
+*.hex
+*.elf
+*.bin
+*.map
+
+# Arduino IDE temp files
+*.bak
+*.tmp
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# Mac junk (just in case)
+.DS_Store
