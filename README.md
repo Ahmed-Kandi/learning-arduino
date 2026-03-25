@@ -1,2 +1,2 @@
-# learning-arduino
-Documenting my journey of learning Arduino and circuits in general.
+# Learning Arduino
+Documenting my journey of learning Arduino and embedded systems.
